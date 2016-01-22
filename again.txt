@@ -1,2 +1,6 @@
 Hello New
+<<<<<<< HEAD
 True 
+=======
+From hamidparvez
+>>>>>>> 1b84df3c144351f9f239093ab60ef63e21dc101d
